@@ -1,8 +1,13 @@
-## Welcome to My detail
+## Welcome to My Profile
 
-You can use the [editor on GitHub](https://github.com/lqz1212/Liu-Qingzhao/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### My information
+#### Name:  QingzhaoLiu
+#### Student Number: 3631678
+#### Email: lqz951212@outlook.com
+#### Nationality: China
+#### Hobby: play games, reading novels 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
