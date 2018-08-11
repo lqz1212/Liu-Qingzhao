@@ -1,11 +1,11 @@
 ## Welcome to My Profile
 
 ### My information
-#### Name:  QingzhaoLiu
-#### Student Number: 3631678
-#### Email: lqz951212@outlook.com
-#### Nationality: China
-#### Hobby: play games, reading novels 
+ Name:  QingzhaoLiu
+ Student Number: 3631678
+ Email: lqz951212@outlook.com
+ Nationality: China
+ Hobby: play games, reading novels 
 
 
 
