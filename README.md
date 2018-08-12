@@ -72,7 +72,7 @@ I'm inventive, clever, and enthusiastic.I can use my qualities to deal with the 
 
 I would like to develop a game using tools such as Unity, Construct2  or Cocos24 because I'm really in games.All the game fans want to play the game they have made by themselves. It will be very fulfilling. You can also add your own ideas.When your friends play your game, you can also be proud to tell him that this is the game you made and you can also develop what you want with many friends who share your interests.Therefore, I want to make a plan to achieve this project.
 
-Firstly, if I want to achieve this plan, I need to have a lot of skills.For example, it will need java developer and lots of knowledge. I will learn some basic knowledge first. Then, I will learn some advanced knowledge step by step. Secondly, I need to make the most of my spare time.For illustrate, I will communicate with some friends and learn some skills frome them.
+Firstly, if I want to achieve this plan, I need to have a lot of skills.For example, it will need java developer and lots of knowledge. I will learn some basic knowledge first. Then, I will learn some advanced knowledge step by step. Secondly, I need to make the most of my spare time.For illustrate, I will communicate with some friends and learn some skills frome them.Findly, online classes are also necessary. That is my plan.
 
 
 .
