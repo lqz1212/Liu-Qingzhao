@@ -35,11 +35,11 @@ it's a Cybersecurity Network Security Manager of JPMorgan Chase & Co.’s. To si
 
 3.Noted cybersecurity expert, keeping technical skills current and participating in multiple forums
 
-4. Expertise in Agile and can work with at least one of the common frameworks
+4.Expertise in Agile and can work with at least one of the common frameworks
 
-5. Ability to identify network attacks and systemic security issues as they relate to threats and vulnerabilities, with focus on recommendations for enhancements or remediation
+5.Ability to identify network attacks and systemic security issues as they relate to threats and vulnerabilities, with focus on recommendations for enhancements or remediation
 
-6. 5+ years of knowledge and experience with network security engineering design, administration, configuration, implementation, analysis and support
+6.5+ years of knowledge and experience with network security engineering design, administration, configuration, implementation, analysis and support
 
 7.Strong knowledge of transport (TCP/UDP) and application layer (HTTP, FTP, etc.) protocols
 
