@@ -43,7 +43,7 @@ it's a Cybersecurity Network Security Manager of JPMorgan Chase & Co.’s. To si
 
 7.Strong knowledge of transport (TCP/UDP) and application layer (HTTP, FTP, etc.) protocols
 
-8. Experience with virtual computing tools (VMWare, Xen, etc.), practices (IaaS, SaaS, DBaaS, etc.), and infrastructure (OpenStack, VXLAN, etc.)
+8.Experience with virtual computing tools (VMWare, Xen, etc.), practices (IaaS, SaaS, DBaaS, etc.), and infrastructure (OpenStack, VXLAN, etc.)
 
 I am a new IT student, I only know a little bit C code now, but I will work hard for my ideal job. I will work hard during the class times and use my free time to study java and networking knowledge. The most important is that  I  will find a part-time job which is relevant to IT. It is not for money. I just want to learn some skills about IT and gain experience.
 ```markdown
