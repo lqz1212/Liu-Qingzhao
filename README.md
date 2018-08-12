@@ -59,34 +59,20 @@ If you are a visual learner, you learn by reading or seeing pictures. You unders
 As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
 
 3.
+Extraversion	  31
+Agreeableness	  30
+Conscientiousness	  28
+Neuroticism	  31
+Openness	  30
 
 
+I'm inventive, clever, and enthusiastic.I can use my qualities to deal with the difficulties and challenges at work.I hope that when I form a team, I can work with people who have the same qualities as me. So we have a common language and the transaction is very convenient.
+
+### Project ideas
+
+I would like to develop a game using tools such as Unity, Construct2  or Cocos24 because I'm really in games.All the game fans want to play the game they have made by themselves. It will be very fulfilling. You can also add your own ideas.When your friends play your game, you can also be proud to tell him that this is the game you made and you can also develop what you want with many friends who share your interests.Therefore, I want to make a plan to achieve this project.
+
+Firstly, if I want to achieve this plan, I need to have a lot of skills.For example, it will need java developer and 
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lqz1212/Liu-Qingzhao/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+.
