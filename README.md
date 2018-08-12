@@ -46,6 +46,16 @@ it's a Cybersecurity Network Security Manager of JPMorgan Chase & Co.’s. To si
 8.Experience with virtual computing tools (VMWare, Xen, etc.), practices (IaaS, SaaS, DBaaS, etc.), and infrastructure (OpenStack, VXLAN, etc.)
 
 I am a new IT student, I only know a little bit C code now, but I will work hard for my ideal job. I will work hard during the class times and use my free time to study java and networking knowledge. The most important is that  I  will find a part-time job which is relevant to IT. It is not for money. I just want to learn some skills about IT and gain experience.
+
+
+### Personal Profile
+1.
+2.I'm a Visual learner! 
+If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
+
+As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
+
+
 ```markdown
 Syntax highlighted code block
 
