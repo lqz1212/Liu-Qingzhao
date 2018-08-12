@@ -18,7 +18,9 @@
 
 1.I'm a big fan of computer games since I was 7 years old. Because my older brother bought a computer and he told me these awesome games are created by people who work in IT. After that, I secretly vowed to be a people who can produce games. However, I would like to be a networking security manager, when I watched some hacker movies. 
 
-2.
+2.Because my friend comes to Australia to study. So I started to learn about Australian university. Findly, I found RMIT is the best for me. 
+
+3.I want to learn lots of knowledge and skills. For example, I hope I can learn how to create a simple game and how to protect your network and the most important is I want to learn how to be an IT developer. 
 
 ```markdown
 Syntax highlighted code block
