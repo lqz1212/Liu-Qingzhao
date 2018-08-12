@@ -49,11 +49,18 @@ I am a new IT student, I only know a little bit C code now, but I will work hard
 
 
 ### Personal Profile
-1.
+1.ENTP
+
+Inventive, clever, and enthusiastic, you are always on the lookout for new possibilities and problems to stimulate and challenge your inner world of ideas. You are curious in regard to everything that is new and you seldom feel at ease with the status quo. You have a great need for intellectual novelty, and from time to time you may even challenge people or organizations just to squeeze some new idea out of them. You tend to have a love of discussions and verbal sparring, and in a discussion you may follow an argument to its most extreme conclusion. In such cases you may even be suspected of being provocative for the sake of it. When a truly new idea manages to take hold of your imagination, you are quick to see how that idea could be turned into a project in the real world. You have a great enthusiasm for such projects. The problem is that you have such a vivid imagination that you may sometimes start more projects than it is humanly possible to finish.
+
 2.I'm a Visual learner! 
 If you are a visual learner, you learn by reading or seeing pictures. You understand and remember things by sight. You can picture what you are learning in your head, and you learn best by using methods that are primarily visual. You like to see what you are learning.
 
 As a visual learner, you are usually neat and clean. You often close your eyes to visualize or remember something, and you will find something to watch if you become bored. You may have difficulty with spoken directions and may be easily distracted by sounds. You are attracted to color and to spoken language (like stories) that is rich in imagery.
+
+3.
+
+
 
 
 ```markdown
